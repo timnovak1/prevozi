@@ -1,4 +1,4 @@
-Aplikacija mora vsebovati appsettings.json, ki mora vsebovati Connection string, do PB in atribute potrebne za JWT. 
+Aplikacija mora vsebovati appsettings.json, ki mora vsebovati Connection string do PB in atribute potrebne za JWT. 
 
 Primer appsettings.json:
 ```json
