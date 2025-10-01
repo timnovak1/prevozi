@@ -1,6 +1,6 @@
 Aplikacija mora vsebovati appsettings.json, ki mora vsebovati Connection string do PB in atribute potrebne za JWT. 
 
-Primer appsettings.json:
+Primer appsettings.json (na voljo tudi v appsettings.Development.json):
 ```json
 {
   "ConnectionStrings": {
@@ -22,6 +22,8 @@ Primer appsettings.json:
 }
 
 ```
+
+
 Nadaljujemo z generacijo tabel. 
 ```bash
 dotnet ef migrations add su_cuy_gar
